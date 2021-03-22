@@ -1,0 +1,19 @@
+{
+    "name": "livestream_project_ideas",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@feathersjs/express": "^4.5.11",
+        "@feathersjs/feathers": "^4.5.11",
+        "@feathersjs/socketio": "^4.5.11",
+        "moment": "^2.29.1"
+    }
+}
